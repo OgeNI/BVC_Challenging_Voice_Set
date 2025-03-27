@@ -18,8 +18,6 @@ When the BVC Voice dataset is used in any form of research, please the following
 
 { O. Iloanusi, U. Ejiogu, I. Okoye, I. J. F. Ezika, S. Ezichi, C. Osuagwu and E. Ejiogu, “Voice Recognition and Gender Classification in the Context of Native Languages and Lingua Franca,” in the 6th IEEE International Conference on Soft Computing & Machine Intelligence (ISCMI), Johannesburg, South Africa, November 19-20, 2019, pp. 175–179. https://ieeexplore.ieee.org/document/9004306 }
 
-The paper can be accessed from https://ieeexplore.ieee.org/document/9004306
-
 ## More Information on the BVC Challenging Voice Set
 The total number of subjects with complete information in the BVC voice data collection are 526, of which 336 are males and 190 are females. 
 
